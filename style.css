@@ -1,0 +1,14 @@
+p{
+	font-size: 50px;
+	font-family: Courier New;
+	font-style: italic;
+	font-weight: bold;
+	border: solid 5px;
+	background-color: lightgrey;
+}
+body{
+	background-color: lightblue;
+}
+a{
+	color: red;
+}
